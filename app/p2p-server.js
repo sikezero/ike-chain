@@ -37,7 +37,6 @@ class P2pServer {
       console.log('data', data);
     });
   }
-  
 }
 
 module.exports = P2pServer;
